@@ -1,0 +1,14 @@
+<suite name="Suite" thread-count="3" parallel=""methods>
+    <test name="testing">
+        <classes>
+            <class name="AlertTest" />
+            <class name="Downloads" />
+            <class name="OpenTest" />
+            <class name="PopupTest" />
+            <class name="TestCase" />
+            <class name="TooltipTest" />
+            <class name="Upload" />
+            <class name="Validation" />
+        </classes>
+    </test>
+</suite>
